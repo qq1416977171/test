@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAP>
+	<TRANS TRANSCODE="010001">
+		<REQUEST NAME="data">com.jeecg.client.inter.ws.model.server.ServerRequestData</REQUEST>
+		<!-- <REQUEST NAME="serverInfo">com.jeecg.client.inter.ws.model.server.ServerDetailInfo</REQUEST> -->
+		<HANDLE NAME="method">com.jeecg.client.inter.ws.model.server.ServerHandler</HANDLE>
+		<RESPONSE NAME="data">com.jeecg.client.inter.ws.model.server.ServerResult</RESPONSE>
+	</TRANS>
+</MAP>
